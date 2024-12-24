@@ -1,10 +1,5 @@
-# Nexus
+# Nexus Proof Oluşturma
 
-> Nexus için kontrat deploylayıp dosylarımı yedekledim.
-
-> Bir beklentim yok bir kaç dakikalık işlem diye yapıyorum.
-
-> Herhangi bir sunucuda yapabilirsiniz. 
 
 <details>
   <summary> <h1> Yatırımı hakkında </summary> </h1>
