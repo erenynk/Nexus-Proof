@@ -1,12 +1,5 @@
-# Nexus Proof Oluşturma
+# Nexus Proof 
 
-
-<details>
-  <summary> <h1> Yatırımı hakkında </summary> </h1>
-
-![image](https://github.com/ruesandora/Nexus/assets/101149671/9fcbe5d7-d88c-49b8-af65-768132f75176)
-
-</details>
 
 # Kurulum
 
